@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/raj-pandith/weatherApp.git/static/css/main.56fed1e9.css",
-    "main.js": "/raj-pandith/weatherApp.git/static/js/main.1d1fcadf.js",
-    "index.html": "/raj-pandith/weatherApp.git/index.html",
-    "main.56fed1e9.css.map": "/raj-pandith/weatherApp.git/static/css/main.56fed1e9.css.map",
-    "main.1d1fcadf.js.map": "/raj-pandith/weatherApp.git/static/js/main.1d1fcadf.js.map"
+    "main.css": "/weatherApp/static/css/main.56fed1e9.css",
+    "main.js": "/weatherApp/static/js/main.1d1fcadf.js",
+    "index.html": "/weatherApp/index.html",
+    "main.56fed1e9.css.map": "/weatherApp/static/css/main.56fed1e9.css.map",
+    "main.1d1fcadf.js.map": "/weatherApp/static/js/main.1d1fcadf.js.map"
   },
   "entrypoints": [
     "static/css/main.56fed1e9.css",
